@@ -1,9 +1,9 @@
 
 <h2 align="center">FViM: Frequency Vision Mamba for Label-Free Cell Death Pathway Prediction in Lung Cancer Chemotherapy</h2>
 
-<p align="center">
-  <b>Our work has been accepted by <i>MICCAI 2025</i>!<br>
-</p>
+⭐ This code has been completely released ⭐ 
+
+[Paper Link](https://link.springer.com/chapter/10.1007/978-3-032-05141-7_23) 
 
 ## Overview
 <p align='center'>
@@ -73,4 +73,19 @@ Modify the paths in lines 18 to 54 of the eval.py, then simply run:
 
 ```python
 python eval.py
+```
+
+## Citation
+
+If you find the code helpful in your research or work, please cite the following paper:
+
+```
+@inproceedings{ye2025fvim,
+  title={FViM: Frequency Vision Mamba for Label-Free Cell Death Pathway Prediction in Lung Cancer Chemotherapy},
+  author={Ye, Zhaoyi and Wei, Shubin and Mei, Liye and Weng, Yueyun and Geng, Qing and Wang, Du and Lei, Cheng},
+  booktitle={International Conference on Medical Image Computing and Computer-Assisted Intervention},
+  pages={230--239},
+  year={2025},
+  organization={Springer Nature Switzerland Cham}
+}
 ```
