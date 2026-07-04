@@ -1,5 +1,5 @@
 
-<h2 align="center">FViM: Frequency Vision Mamba for Label-Free Cell Death Pathway Prediction in Lung Cancer Chemotherapy</h2>
+<h2 align="center">FViM: Frequency Vision Mamba for Label-Free Cell Death Pathway Prediction in Lung Cancer Chemotherapy (MICCAI 2025)</h2>
 
 ⭐ This code has been completely released ⭐ 
 
